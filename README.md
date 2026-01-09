@@ -166,3 +166,5 @@ simple calculator
 
 </body>
 </html>
+<img width="226" height="223" alt="images-removebg-preview (3)" src="https://github.com/user-attachments/assets/f8af9002-aaab-405b-b3b4-142372b77aba" />
+<img width="226" height="223" alt="images-removebg-preview (3)" src="https://github.com/user-attachments/assets/de3e1f54-faf9-48a0-9fbe-04b85fa4502d" />
